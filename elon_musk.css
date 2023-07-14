@@ -1,0 +1,55 @@
+/*<div  style="text-align: justify;"
+  <p>Elon Reeve Musk (Pretoria, 28 de junio de 1971) es un <em>empresario, inversionista y magnate estadounidense de origen sudafricano</em>. <strong>Es el fundador, consejero delegado e ingeniero jefe de SpaceX; inversor ángel, <em>CEO y arquitecto de productos de Tesla, Inc</em></strong>; fundador de The Boring Company; y cofundador de Neuralink y OpenAI. Con un patrimonio neto estimado en unos 252 mil millones de dólares en abril de 2022,2​ Musk es la persona más rica del mundo según el índice de multimillonarios de Bloomberg y la lista de multimillonarios en tiempo real de ForbesElon Reeve Musk (Pretoria, 28 de junio de 1971) es un empresario, inversionista y magnate estadounidense de origen sudafricano. Es el fundador, consejero delegado e ingeniero jefe de SpaceX; inversor ángel, CEO y arquitecto de productos de Tesla, Inc; fundador de The Boring Company; y cofundador de Neuralink y OpenAI. Con un patrimonio neto estimado en unos 252 mil millones de dólares en abril de 2022,2​ Musk es la persona más rica del mundo según el índice de multimillonarios de Bloomberg y la lista de multimillonarios en tiempo real de Forbes.</p>
+</div>*/
+.parrafos-justificados{
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.color{
+ background-color: solid #ddd; 
+ 
+}
+
+.parrafo-1{
+  font-family: serif;
+  color: rgb(191, 0, 255);
+}
+
+.parrafo-2-color{
+  color: blue;
+}
+
+.fondo-color-parrafo-3{
+  color: white;
+  background-color: purple;
+}
+.parrafo-4-color{
+  color: black;
+}
+.color-white {
+  color: black; 
+  font-size: 50px;
+}
+.prueba{
+  color: rgb( 0, 232, 15);
+  font-size: 20px;
+}
+
+.encabezado-color{
+  color: orangered;
+  font-size: 20px;
+}
+
+.encabezado-color-h3{
+  color: black;
+}
+
+.encabezado-color-2-h3{
+  color: white;
+  background-color: black;
+}
+
+.imagen-2{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc-p7W0MBrtAOPsaI2klj8ZoW7utQLu2QL6w&usqp=CAU);
+}
